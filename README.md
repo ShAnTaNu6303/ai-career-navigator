@@ -76,8 +76,8 @@ PORT=5000
 MONGODB_URI=mongodb+srv://...
 JWT_SECRET=your-secret-key
 ANTHROPIC_API_KEY=sk-ant-api03-...
-RAZORPAY_KEY_ID=rzp_test_...     # Optional
-RAZORPAY_KEY_SECRET=...           # Optional
+RAZORPAY_KEY_ID=rzp_test_...     
+RAZORPAY_KEY_SECRET=...           
 ```
 
 ### client/.env (optional)
@@ -140,6 +140,3 @@ Model used: `claude-sonnet-4-20250514`
 
 ---
 
-## 📝 License
-
-MIT — Built with ❤️ using Claude AI by Anthropic
